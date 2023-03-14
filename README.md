@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prework Study Guide for Bootcamp
 
 ## Basics of constructing your own web page
@@ -44,3 +45,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
+=======
+# pre-bootcamp
+Pre-bootcamp course modules
+>>>>>>> 97de9226e417db1e40601c3eff65f4ca670301da
