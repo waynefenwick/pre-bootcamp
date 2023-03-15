@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Prework Study Guide for Bootcamp
 
 ## Basics of constructing your own web page
@@ -49,3 +50,7 @@ SOFTWARE.
 # pre-bootcamp
 Pre-bootcamp course modules
 >>>>>>> 97de9226e417db1e40601c3eff65f4ca670301da
+=======
+# pre-bootcamp
+Pre bootcamp tasks
+>>>>>>> 14cd48321d541a2c7c0496a3fefe758413f8ea39
